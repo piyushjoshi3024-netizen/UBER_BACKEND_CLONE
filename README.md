@@ -771,5 +771,3 @@ This project is a simple, readable backend for learning microservice patterns, R
 It keeps the architecture understandable while still showing realistic backend responsibilities.
 
 If you are learning backend engineering, this is a strong project to practice and explain in interviews.
-#   T h e - R i n g s i d e - U I - p r o j e c t  
- 
