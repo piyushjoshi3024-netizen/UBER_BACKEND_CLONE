@@ -1,0 +1,13 @@
+{
+  "name": "uber_backend",
+  "version": "1.0.0",
+  "description": "This repository is a learning-focused Uber-like backend built in a beginner-friendly microservices style.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
